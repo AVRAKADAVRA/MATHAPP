@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
 const kColorizedAnimationColors = [
-  Colors.lightGreenAccent,
-  Colors.blue,
-  Colors.yellow,
+  Colors.lightBlue,
   Colors.orange,
+  Colors.yellow,
+  Colors.deepPurpleAccent,
   Colors.cyanAccent,
 ];
 
 const kAnimationTextStyle = TextStyle(
-  fontSize: 50, fontWeight: FontWeight.bold,);
+  fontSize: 70, fontWeight: FontWeight.bold,);
 
-const kTapToStartText = TextStyle(fontSize: 25, color: Colors.white);
+const kTapToStartText = TextStyle(fontSize: 25, color: Colors.black26);
